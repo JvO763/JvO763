@@ -1,7 +1,7 @@
 ##
-- 👋 Hi, I’m João Vitor de Oliveira and I'm 21
-- 👀 I’m interested in HTML, CSS, Python, Java, MatLab, Octave, C and C++
-- 🌱 I’m currently learning Matlab
+- 👋 Hi, I’m João Vitor de Oliveira and I'm 22
+- 👀 I’m interested in HTML, CSS, JavaScript, Python, Java, MatLab, Octave, C and C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any kind of project, i think everything can add some knowledge to me
 - 📫 Talk to me, give me some tips, challenges and opportunities at jv0usp@usp.br
 - 🌎 I speak English and I'm a native portuguese speaker (I'm brazilian), I know i little bit of Spanish and I'm trying to learn French
